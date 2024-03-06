@@ -72,3 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Windows/UnderTheSea/Content/Paks/UnderTheSea-Windows.ucas
+Windows/UnderTheSea/Content/Paks/UnderTheSea-Windows.utoc
